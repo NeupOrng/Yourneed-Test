@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d485df8.css",
+    "main.js": "/static/js/main.6a0ae9af.js",
+    "static/js/787.e563b309.chunk.js": "/static/js/787.e563b309.chunk.js",
+    "static/media/woman.png": "/static/media/woman.fafe79c270508e8d7486.png",
+    "static/media/p1.jpg": "/static/media/p1.89b3ec758f55b6604ae7.jpg",
+    "static/media/logo.jpg": "/static/media/logo.456d5cbce27907c32b40.jpg",
+    "static/media/program1.png": "/static/media/program1.91ec5f953b4efb913f23.png",
+    "static/media/agriculture.png": "/static/media/agriculture.38e4c345c1824f239780.png",
+    "static/media/blockchain.png": "/static/media/blockchain.886e8c36d3e4f8eefbb9.png",
+    "static/media/mobile.png": "/static/media/mobile.c928f61b51b17d9d27b3.png",
+    "static/media/monitor.png": "/static/media/monitor.7647ccc9e5650c5acfd3.png",
+    "static/media/kpi.png": "/static/media/kpi.e10c463413a6dc28b3fc.png",
+    "static/media/devops.png": "/static/media/devops.3b93bce8dfaf934b0bab.png",
+    "static/media/iot.png": "/static/media/iot.22ac9f641bac7869e9a8.png",
+    "static/media/member.png": "/static/media/member.c1f57a3dc135194a7bd5.png",
+    "static/media/web.png": "/static/media/web.c12c8bcfe71b7ff8e600.png",
+    "static/media/erpsystem.png": "/static/media/erpsystem.769cd2d8cf234ebf8ef1.png",
+    "static/media/instagram.svg": "/static/media/instagram.9757c71e9110741dcb759ac51754cca9.svg",
+    "static/media/twitter.svg": "/static/media/twitter.425f5e9fff09bdeeadd253663dffa2f6.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.3fb2ae4aec72eb25a883b7817a9ece05.svg",
+    "index.html": "/index.html",
+    "static/media/youtube.svg": "/static/media/youtube.84047857c1f5396d27ea4d37b4f3d7d4.svg",
+    "static/media/facebook.svg": "/static/media/facebook.469cb13b2e4870fc104eaf7cc6154de8.svg",
+    "main.7d485df8.css.map": "/static/css/main.7d485df8.css.map",
+    "main.6a0ae9af.js.map": "/static/js/main.6a0ae9af.js.map",
+    "787.e563b309.chunk.js.map": "/static/js/787.e563b309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d485df8.css",
+    "static/js/main.6a0ae9af.js"
+  ]
+}
